@@ -1,0 +1,10 @@
+body {
+  background-color: grey;
+}
+
+.canvas {
+  margin: 0 auto;
+  display: block;
+  width: '500';
+  height: '500';
+}
